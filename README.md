@@ -1,9 +1,6 @@
 # 🗣️ Multi-Speaker Speech Separation Using Spatial & Acoustic Audio Features
 
 
-> 🚧 **Note:** This project is currently under update.  
-> 🔔 If you need urgent access or support, feel free to message me on [LinkedIn](https://www.linkedin.com/in/harshith-potnuri-144har/).
-
 This project presents a hybrid deep learning framework for separating overlapping speech signals using both **spatial** (ITD, ILD, DOA) and **acoustic** (MFCC, Mel-Spectrogram) features. A combination of **SuperFormer** and **SpaRSep** models is used to achieve intelligible, speaker-specific audio outputs from stereo mixtures.
 
 ---
